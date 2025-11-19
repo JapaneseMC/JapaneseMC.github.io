@@ -1,6 +1,5 @@
 # JapaneseMC
-<br>
-https://www.mediafire.com/file/k7sswxmitjioq5u/JapaneseMC.png/file
+
 <br>
 This is the official website for the JapaneseMC server for Minecraft and Discord.
 <br>
