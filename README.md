@@ -1,4 +1,6 @@
 # JapaneseMC
+<br>
+
 This is the official website for the JapaneseMC server for Minecraft and Discord.
 <br>
 <br>
