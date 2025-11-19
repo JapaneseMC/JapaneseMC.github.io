@@ -1,0 +1,47 @@
+/* Create by SabaMike */
+
+html {
+    font-size:30px;
+}
+body {
+    background-color: #e0ffff;
+    display: block;
+}
+.contentarea {
+    display: block;
+    width: 98%;
+    margin: 0 auto;
+}
+.tac {
+    text-align: center;
+}
+.home {
+    text-align: left;
+    background-color: #caffed;
+}
+.discord{
+    display: block;
+    width: 300px;
+    padding: 15px 0;
+    margin: 0 auto;
+    background: #5865f2;
+    color: #FFF;
+    text-decoration: none;
+    text-align: center;
+    height: auto;
+    size: 80%;
+}
+.discord:hover{
+    background: #848ef4;
+    size: 80%;
+}
+.header {
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    margin-right: 50px;
+}
+header {
+    text-align: center;
+    background-color: rgb(255, 255, 191);
+    
+}
